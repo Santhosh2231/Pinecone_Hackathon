@@ -1,10 +1,8 @@
 ### Projects works on the Image Similarity Search
 
 
-## Inspiration![Uploading analysing.png…]()
-
-In recent years, ![Uploading Crop_diseases.png…]()
-the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods,  and inadequate plant protection techniques. Crop yields are affected at large scale due  to spread of unchecked diseases. The spread of these diseases is similar to the spreading of cancer in human body. But, unlike cancer these diseases can be identified at early stages through plant phenotyping traits analysis.
+## Inspiration
+In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods,  and inadequate plant protection techniques. Crop yields are affected at large scale due  to spread of unchecked diseases. The spread of these diseases is similar to the spreading of cancer in human body. But, unlike cancer these diseases can be identified at early stages through plant phenotyping traits analysis.
 
 ## What it does
 The **Crop disease detection and precautions recommendation** project utilizes cutting-edge technology to assist farmers in identifying crop diseases and providing personalized recommendations for disease prevention and treatment. By leveraging the power of machine learning and OpenAi, this project aims to empower farmers to make informed decisions and protect their crops' health.
