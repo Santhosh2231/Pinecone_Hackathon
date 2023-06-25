@@ -13,8 +13,6 @@ function App() {
       
         <Navbar />
         <div className="min-h-screen">
-
-        
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/analyse" element={<FileUploader />} />

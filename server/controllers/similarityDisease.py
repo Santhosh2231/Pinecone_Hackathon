@@ -42,7 +42,7 @@ class cropdisease(Resource):
         image.resize((224,224));
         prepr = data_transforms(image).unsqueeze(0)
         query_embedding = model(prepr).tolist()
-        pinecone.init(api_key="63838b1c-9e84-4786-b0b5-0e87aa3b93d0", environment='asia-northeast1-gcp')
+        pinecone.init(api_key="your_key", environment='asia-northeast1-gcp')
         index = pinecone.Index(index_name="image-search")
         response = index.query(query_embedding, top_k=4, include_metadata=True)
 
