@@ -1,8 +1,5 @@
 ### Projects works on the Image Similarity Search
-![diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/6811cc9a-74b6-4c03-9ce2-7bd00d130aa6)
-![analysing](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/4923a6d1-45ce-4097-a880-e40e1b1cdacc)
-![Uploading results.png…]()
-![Uploading Crop_diseases.png…]()
+
 
 ## Inspiration![Uploading analysing.png…]()
 
@@ -32,3 +29,9 @@ Developing this project provided us with valuable insights into the intersection
 
 ## What's next for Crop disease detection and precautions recommendation
 Looking ahead, we aim to continuously improve and expand the capabilities of this project. We plan to incorporate additional crop varieties and expand the dataset to enhance the model's versatility and accuracy. Additionally, we will explore ways to enhance the text generation component by integrating feedback mechanisms and leveraging user interactions to improve the quality and relevance of the recommendations.
+
+## Project Images
+![Crop_diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/546d4d57-4734-489e-a0df-88a074af7d54)
+![diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/6811cc9a-74b6-4c03-9ce2-7bd00d130aa6)
+![analysing](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/4923a6d1-45ce-4097-a880-e40e1b1cdacc)
+![results](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/a828961d-b15e-454b-93e7-7a8ccf4c5427)
