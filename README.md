@@ -6,6 +6,14 @@ At the core of this technique lies the concept of cosine similarity, which measu
 
 To perform a similar image search, the AI model first encodes the input query image into its corresponding feature vector. This vector is then compared with the feature vectors of the images stored in its long-term memory. By calculating the cosine similarity index between the query vector and the vectors of the stored images, the AI model can determine the similarity between the query image and the images in its memory.
 
+## Project Images
+### Working model
+![analysing](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/4923a6d1-45ce-4097-a880-e40e1b1cdacc)
+![results](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/a828961d-b15e-454b-93e7-7a8ccf4c5427)
+
+### Crop diseases and recommendations
+![Crop_diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/546d4d57-4734-489e-a0df-88a074af7d54)
+![diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/6811cc9a-74b6-4c03-9ce2-7bd00d130aa6)
 
 ## Inspiration
 In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods,  and inadequate plant protection techniques. Crop yields are affected at large scale due  to spread of unchecked diseases. The spread of these diseases is similar to the spreading of cancer in human body. But, unlike cancer these diseases can be identified at early stages through plant phenotyping traits analysis.
@@ -34,8 +42,4 @@ Developing this project provided us with valuable insights into the intersection
 ## What's next for Crop disease detection and precautions recommendation
 Looking ahead, we aim to continuously improve and expand the capabilities of this project. We plan to incorporate additional crop varieties and expand the dataset to enhance the model's versatility and accuracy. Additionally, we will explore ways to enhance the text generation component by integrating feedback mechanisms and leveraging user interactions to improve the quality and relevance of the recommendations.
 
-## Project Images
-![Crop_diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/546d4d57-4734-489e-a0df-88a074af7d54)
-![diseases](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/6811cc9a-74b6-4c03-9ce2-7bd00d130aa6)
-![analysing](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/4923a6d1-45ce-4097-a880-e40e1b1cdacc)
-![results](https://github.com/Santhosh2231/Pinecone_Hackathon/assets/87355988/a828961d-b15e-454b-93e7-7a8ccf4c5427)
+
