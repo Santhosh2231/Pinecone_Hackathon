@@ -1,4 +1,10 @@
-### Projects works on the Image Similarity Search
+## **Image Similarity Search index using long term memory of AI**
+
+Similar image search using cosine similarity index relies on the powerful capabilities of AI's long-term memory. This approach leverages the inherent ability of AI models to remember and extract meaningful features from images, allowing for efficient and accurate image retrieval.
+
+At the core of this technique lies the concept of cosine similarity, which measures the similarity between two vectors by calculating the cosine of the angle between them. In the context of image search, images are represented as high-dimensional feature vectors extracted from their respective visual representations. These feature vectors capture intricate details such as edges, textures, shapes, and colors, enabling the AI model to understand the visual content of the images.
+
+To perform a similar image search, the AI model first encodes the input query image into its corresponding feature vector. This vector is then compared with the feature vectors of the images stored in its long-term memory. By calculating the cosine similarity index between the query vector and the vectors of the stored images, the AI model can determine the similarity between the query image and the images in its memory.
 
 
 ## Inspiration
